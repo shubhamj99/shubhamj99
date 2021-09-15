@@ -2,26 +2,31 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Data%20Scientist;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
+&emsp;
 <a href="https://www.linkedin.com/in/shubham-jain-7b03a6202/">
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
+&emsp; 
 <a href="https://github.com/shubhamj99">
   <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
+&emsp; 
 <a href="https://www.instagram.com/shubham.j99/">
   <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<br><br>
+&emsp; 
 <a href="https://www.hackerrank.com/shubhamj99_sj">
   <img align="left" alt="akd's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
+&emsp; 
 <a href="https://www.codechef.com/users/shubhamj99">
   <img align="left" alt="akd's codechef" src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.rating&url=https://competitive-coding-api.herokuapp.com/api/codechef/amandewatnitrr&prefix=Rating%20&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=86400" />
 </a>
+&emsp; 
 <a href="mailto:shubhamj99.sj@gmail.com">
   <img align="left" alt="akd's codechef" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
-<br>
+&emsp;
 ![](https://github.com/shubhamj99/shubhamj99/blob/main/header_.png)
 
 ## <p align="center"><h4 align="center"><samp> I am 3rd year at Maharaja Agrasen Institute of Technology pursuing B.Tech. in IT. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity. </samp></h4></p>
