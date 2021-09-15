@@ -33,10 +33,6 @@
 &emsp;
 </div>
 
-## Spotify Playing 🎧
-
-  [![Spotify](https://novatorem-shubhamj99.vercel.app/api/spotify)](https://open.spotify.com/user/31ro4eiv5jvhg56g7ykne25i43ua)
-
 ## <p align="center"><h4 align="center"><samp> A Data Scientist, An Open Source Contributor, Web Developer  & A Competitive Programmer </samp></h4></p>
 
 ## <p align="center"><h4 align="center"><samp> I am 3rd year student at Maharaja Agrasen Institute of Technology pursuing B.Tech. in IT. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity. </samp></h4></p>
@@ -53,9 +49,6 @@
 - 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
 - ⚡ <samp>Fun fact: I am fun loving person and tries to make work interesting though, but I am a determined guy.
 </div>
-
-## 🔥 Streak Stats
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamj99&theme=algolia" alt="shubhamj99" /></p>
 
 ## 🛠️ My Skills
 
@@ -170,6 +163,12 @@
 
 <br/>
 
+  ## Spotify Playing 🎧
+
+  [![Spotify](https://novatorem-shubhamj99.vercel.app/api/spotify)](https://open.spotify.com/user/31ro4eiv5jvhg56g7ykne25i43ua)
+  
+## 🔥 Streak Stats
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamj99&theme=algolia" alt="shubhamj99" /></p>
 
 ##  📊 Github Stats (Expand to View) 
 
