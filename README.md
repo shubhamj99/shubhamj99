@@ -1,7 +1,8 @@
 # Hey Everyone! I'm [Shubham Jain!](https://github.com/shubhamj99) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=IT+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Data%20Scientist;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=DS%20|%20AI%20|%20ML%20Enthusiast;IT+Student;Full+Stack+Web+Developer;Data%20Scientist;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
+![](https://github.com/shubhamj99/shubhamj99/blob/main/header_.png)
 <div align="center">
   &emsp;
 <a href="https://www.linkedin.com/in/shubham-jain-7b03a6202/">
@@ -29,9 +30,6 @@
 </a>
 &emsp;
 </div>
-
-<br>
-![](https://github.com/shubhamj99/shubhamj99/blob/main/header_.png)
 
 ## <p align="center"><h4 align="center"><samp> I am 3rd year at Maharaja Agrasen Institute of Technology pursuing B.Tech. in IT. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity. </samp></h4></p>
 
