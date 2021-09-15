@@ -2,7 +2,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=IT+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Data%20Scientist;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
-&emsp;
+<div align="center">
+  &emsp;
 <a href="https://www.linkedin.com/in/shubham-jain-7b03a6202/">
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
@@ -27,6 +28,8 @@
   <img align="left" alt="akd's codechef" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 &emsp;
+</div>
+
 <br>
 ![](https://github.com/shubhamj99/shubhamj99/blob/main/header_.png)
 
