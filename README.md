@@ -31,9 +31,9 @@
 &emsp;
 </div>
 
-## <p align="center"><h4 align="center"><samp> I am 3rd year at Maharaja Agrasen Institute of Technology pursuing B.Tech. in IT. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity. </samp></h4></p>
-
 ## <p align="center"><h4 align="center"><samp> A Data Scientist, An Open Source Contributor, Web Developer  & A Competitive Programmer </samp></h4></p>
+
+## <p align="center"><h4 align="center"><samp> I am 3rd year student at Maharaja Agrasen Institute of Technology pursuing B.Tech. in IT. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity. </samp></h4></p>
 
 <div>
 <img align="right" src="https://github.com/shubhamj99/shubhamj99/blob/main/LAGifathon05.gif" width="40%" height="70%"/>
