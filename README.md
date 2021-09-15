@@ -1,6 +1,6 @@
 # Hey Everyone! I'm [Shubham Jain!](https://github.com/shubhamj99) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Data%20Scientist;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=IT+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Data%20Scientist;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 &emsp;
 <a href="https://www.linkedin.com/in/shubham-jain-7b03a6202/">
