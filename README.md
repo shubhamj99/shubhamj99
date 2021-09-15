@@ -162,7 +162,6 @@
 
 <br/>
 
-<hr>
 
 ##  📊 Github Stats (Expand to View) 
 
@@ -191,7 +190,6 @@
 </details>
 
 <br/>
-<hr>
 
 ### 🏆 GitHub Profile Trophy:
 <p align="center">
