@@ -172,10 +172,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/Candida18"><img align="center" src="https://github-readme-stats.vercel.app/api?username=candida18&show_icons=true&locale=en&theme=algolia" alt="candida18" height="192px"/></a>
+    <a href="https://github.com/shubhamj99"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamj99&show_icons=true&locale=en&theme=algolia" alt="shubhamj99" height="192px"/></a>
     </p>
     <p  align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=candida18&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamj99&show_icons=true&locale=en&layout=compact&theme=algolia" alt="shubhamj99" height="192px"/>
     </p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -186,7 +186,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Candida18"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/shubhamj99"><img alt="Shubham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shubhamj99&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
@@ -202,7 +202,7 @@
 
 ## Spotify Playing 🎧
 
-![Spotify](https://novatorem.vercel.app/api/spotify)
+  [![Spotify](https://novatorem-shubhamj99.vercel.app/api/spotify)](https://open.spotify.com/user/31ro4eiv5jvhg56g7ykne25i43ua)
 
 <br/>
   
