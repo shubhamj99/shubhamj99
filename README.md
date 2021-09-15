@@ -2,7 +2,9 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=DS%20|%20AI%20|%20ML%20Enthusiast;IT+Student;Full+Stack+Web+Developer;Data%20Scientist;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
-![](https://github.com/shubhamj99/shubhamj99/blob/main/header_.png)
+
+![](https://github.com/shubhamj99/shubhamj99/blob/main/imgs/header_.png)
+
 <div align="center">
   &emsp;
 <a href="https://www.linkedin.com/in/shubham-jain-7b03a6202/">
@@ -30,6 +32,10 @@
 </a>
 &emsp;
 </div>
+
+## Spotify Playing 🎧
+
+  [![Spotify](https://novatorem-shubhamj99.vercel.app/api/spotify)](https://open.spotify.com/user/31ro4eiv5jvhg56g7ykne25i43ua)
 
 ## <p align="center"><h4 align="center"><samp> A Data Scientist, An Open Source Contributor, Web Developer  & A Competitive Programmer </samp></h4></p>
 
@@ -199,10 +205,6 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=shubhamj99&column=8&theme=onedark&no-frame=true&no-bg=true"/>
 </a>
 </p>
-
-## Spotify Playing 🎧
-
-  [![Spotify](https://novatorem-shubhamj99.vercel.app/api/spotify)](https://open.spotify.com/user/31ro4eiv5jvhg56g7ykne25i43ua)
 
 <br/>
   
