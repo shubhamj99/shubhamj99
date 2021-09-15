@@ -191,7 +191,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/shubhamj99"><img alt="Shubham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shubhamj99&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/shubhamj99"><img alt="Shubham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shubhamj99&custom_title=Shubham%20Jain's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
