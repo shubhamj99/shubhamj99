@@ -35,7 +35,7 @@
 ## <p align="center"><h4 align="center"><samp> A Data Scientist, An Open Source Contributor, Web Developer  & A Competitive Programmer </samp></h4></p>
 
 <div>
-<img align="right" src="https://github.com/shubhamj99/shubhamj99/blob/main/LAGifathon05.gif" width="40%"/>
+<img align="right" src="https://github.com/shubhamj99/shubhamj99/blob/main/LAGifathon05.gif" width="40%" height="70%"/>
   <br>
 
 - 💻 <samp>Currently pursuing B.Tech in Information Technology Engrineering(2019-2023) from Maharaja Agrasen Institute of Technology, Delhi.
