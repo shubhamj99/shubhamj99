@@ -6,7 +6,7 @@
   
 - 🥇 Special Mention **Hack The Northeast (January 2021)**
 
-- 👯Previously worked as a Teaching Assistant at **Coding Ninjas**
+- 👯 Previously worked as a SDE Intern for 6+ months.
 
 - 💬 Ask me about IT/MERN Stack/Data Science/SQL/Data Structures and Algorithms.
 
