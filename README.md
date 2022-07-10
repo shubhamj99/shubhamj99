@@ -3,6 +3,10 @@
 <h3 align="center">I am currently a 3rd year IT undergraduate student at Maharaja Agrasen Institute of Technology</h3>
 
 - ✍🏻 Vice president at **GeeksForGeeks student's club**, MAIT.
+
+- 🥇 **Specialist** at **CodeForces (1490)**
+
+- 🥇 **4-stars** at **CodeChef**
   
 - 🥇 Special Mention **Hack The Northeast (January 2021)**
 
